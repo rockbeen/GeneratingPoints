@@ -5,7 +5,7 @@
 
 Сборка с помощью CMake:
 
-mkdir build
-cd build
-cmake ..
-make
+- mkdir build
+- cd build
+- cmake ..
+- make
